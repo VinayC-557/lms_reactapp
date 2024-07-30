@@ -1,0 +1,26 @@
+.sidebar {
+    width: 200px;
+    background: #f7f7f7;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .sidebar h3 {
+    margin-top: 0;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .sidebar li.selected {
+    background: #6200ea;
+    color: white;
+  }
+  

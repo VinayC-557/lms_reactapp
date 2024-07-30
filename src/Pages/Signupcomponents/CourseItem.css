@@ -1,0 +1,43 @@
+.course-item {
+    display: flex;
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+  
+  .course-details {
+    flex: 1;
+  }
+  
+  .course-details h3 {
+    margin: 0 0 10px;
+  }
+  
+  .course-actions {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .action-button {
+    background-color: #6200ea;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .action-button:hover {
+    background-color: #3700b3;
+  }
+
+  

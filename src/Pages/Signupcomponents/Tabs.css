@@ -1,0 +1,33 @@
+.tabs {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .tab-headers {
+    display: flex;
+    /* justify-content: space-around; */
+    margin-bottom: 20px;
+  }
+  
+  .tab-headers button {
+    padding: 10px 20px;
+    border: none;
+    background: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .tab-headers button.active {
+    background: #6200ea;
+    color: white;
+  }
+  
+  .tab-content {
+    text-align: left;
+  }
+  
+  .notes, .resources {
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 4px;
+  }
+  

@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    /* font-family: Arial, sans-serif; */
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  .homepage_h1 {
+    font-size: 8rem;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .quote {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 20px 0;
+  }
+
+  
+  .do{
+    color: green;
+  }
+
+  
+  

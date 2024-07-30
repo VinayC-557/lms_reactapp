@@ -1,0 +1,55 @@
+.container-fluid{
+
+    background-image: url('homepagebg.jpg');
+    position: fixed;
+    padding-bottom: 581px;
+    background-size: cover;
+}
+
+.Login{
+    background-color: white;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+   
+}
+
+.form{
+
+   justify-content: center;
+   
+}
+
+.userform{
+
+    width: 350px;
+    height: 50px;
+ 
+}
+
+.forgotpassword{
+    text-decoration: none;
+    float: left;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+.btn-btn-primary{
+    width: 350px;
+}
+
+.login_h1{
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.login_p1{
+
+    font-family: "Arsenal SC", sans-serif;
+  font-weight: lighter;
+  font-size: large;
+}
